@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Test
+
+I'm a first-year master's graduate student from NanJing University.
+
+I am very fortunate to be advised by 
